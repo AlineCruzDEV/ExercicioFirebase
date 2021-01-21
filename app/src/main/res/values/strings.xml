@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FirebaseStorage</string>
+    <string name="nome_produto">Nome</string>
+    <string name="quant_prod">"Quantidade "</string>
+    <string name="preco_prod">Preço</string>
+    <string name="salvar">Salvar</string>
+    <string name="update">Update</string>
+    <string name="delete">Deleete</string>
 </resources>
