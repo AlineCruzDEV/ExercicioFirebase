@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "776919628098",
+    "firebase_url": "https://fir-datatime-dcaf6-default-rtdb.firebaseio.com",
+    "project_id": "fir-datatime-dcaf6",
+    "storage_bucket": "fir-datatime-dcaf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776919628098:android:ddf9aac418da1044b4f0db",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.firebasedatatime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776919628098-avjmvl4394jh2atjjpse8rj75g1jfjnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBID1MZ1Zvn5pNXaxFrj5lBfiyC0G97420"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776919628098-avjmvl4394jh2atjjpse8rj75g1jfjnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776919628098:android:c002bffa9a70b32bb4f0db",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776919628098-avjmvl4394jh2atjjpse8rj75g1jfjnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBID1MZ1Zvn5pNXaxFrj5lBfiyC0G97420"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776919628098-avjmvl4394jh2atjjpse8rj75g1jfjnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
